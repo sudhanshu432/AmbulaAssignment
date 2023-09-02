@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/sudhanshu432/AmbulaAssignment/blob/main/SwaggerImage.jpg)
 
 
 # UserLocationApp
