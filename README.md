@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/subhajit51193/AmbulaAssignment/main/SwaggerImage.jpg)
+![App Screenshot]()
 
 
 # UserLocationApp
@@ -59,7 +59,7 @@ Not yet deployed
 
 ## Feedback
 
-If you have any feedback, please reach out to us at nnorth87@gmail.com
+If you have any feedback, please reach out to us at sudhanshuk497@gmail.com
 
 
 ## 🔗 Links
